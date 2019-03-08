@@ -1,0 +1,10 @@
+{
+  "test": {
+    "PORT": 3000,
+    "MONGODB_URI": "mongodb://localhost/SampleAPIAppTest"
+  },
+  "development": {
+    "PORT": 3000,
+    "MONGODB_URI": "mongodb://localhost/SampleAPIApp"
+  }
+}
